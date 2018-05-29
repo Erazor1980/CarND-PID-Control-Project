@@ -10,5 +10,9 @@ And finally the 'I' stands for the integral term. It is used to adjust to a poss
 
 ## Describe how the final hyperparameters were chosen.
 The 'I' parameter was set to 0 because the car in the simulation has no systematic bias. The other parameters where chosen by hand, which led to a fast satisfying result.
-
 Otherwise a method like the "Twiddle Algorithm" could be used to tweak the parameters!
+
+The hyperparameters I decided to use in the project are:
+P = 0.2
+I = 0.0
+D = 7
